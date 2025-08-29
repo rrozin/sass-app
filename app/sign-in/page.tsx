@@ -1,7 +1,7 @@
 const Page = () => {
   return (
     <div>
-      <h1 className="text-2xl underline">Sign In</h1>
+      Sign In
     </div>
   )
 }
